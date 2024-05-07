@@ -20,7 +20,7 @@ status-website:
   cname: status.1qlabs.ai
   # baseUrl: /your-repo-name
   logoUrl: https://uploads-ssl.webflow.com/64bde329a7cb1c7fd4341fe4/64bde4dab40e27828da7a17d_1qlabs-logo.svg
-  name: Upptime
+  name: Status Page
   introTitle: "**1QLabs Status** is the dedicated status monitor for our services."
   introMessage: This status page reflects **real-time** updates directly from our internal systems, ensuring transparency without the need for a dedicated server setup.
   navbar:
