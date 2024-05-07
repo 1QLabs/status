@@ -1,31 +1,28 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: 1QLabs # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: 1QLabs Website
+    url: https://www.1qlabs.ai
+  - name: Talking Brands Website
+    url: https://www.talkingbrands.ai
+  - name: Talking Brands App
+    url: https://app.talkingbrands.ai
+  - name: Adaptive Educational Intelligence (AEI) Website
+    url: https://www.thelearning.ai
+  - name: Adaptive Educational Intelligence (AEI) App
+    url: https://app.thelearning.ai
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.1qlabs.ai
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://uploads-ssl.webflow.com/64bde329a7cb1c7fd4341fe4/64bde4dab40e27828da7a17d_1qlabs-logo.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**1QLabs Status** is the dedicated status monitor for our services."
+  introMessage: This status page reflects **real-time** updates directly from our internal systems, ensuring transparency without the need for a dedicated server setup.
   navbar:
     - title: Status
       href: /
