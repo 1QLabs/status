@@ -4,36 +4,40 @@
     "url": "https://www.1qlabs.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.1qlabs.ai.ico",
     "slug": "1-q-labs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 375,
-    "timeWeek": 526,
-    "timeMonth": 375,
+    "timeDay": 329,
+    "timeWeek": 496,
+    "timeMonth": 372,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-24": 0
+    }
   },
   {
     "name": "Talking Brands Website",
     "url": "https://www.talkingbrands.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.talkingbrands.ai.ico",
     "slug": "talking-brands-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 494,
-    "timeWeek": 528,
-    "timeMonth": 373,
+    "timeDay": 379,
+    "timeWeek": 495,
+    "timeMonth": 369,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-24": 0
+    }
   },
   {
     "name": "Talking Brands App",
@@ -58,18 +62,20 @@
     "url": "https://www.thelearning.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.thelearning.ai.ico",
     "slug": "adaptive-educational-intelligence-aei-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 291,
-    "timeWeek": 493,
-    "timeMonth": 361,
+    "timeDay": 282,
+    "timeWeek": 465,
+    "timeMonth": 358,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-24": 0
+    }
   },
   {
     "name": "Adaptive Educational Intelligence (AEI) App",
