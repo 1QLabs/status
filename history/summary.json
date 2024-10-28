@@ -4,19 +4,19 @@
     "url": "https://www.1qlabs.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.1qlabs.ai.ico",
     "slug": "1-q-labs-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 308,
-    "timeWeek": 403,
-    "timeMonth": 386,
+    "timeDay": 327,
+    "timeWeek": 397,
+    "timeMonth": 385,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.talkingbrands.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.talkingbrands.ai.ico",
     "slug": "talking-brands-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 335,
-    "timeWeek": 413,
-    "timeMonth": 382,
-    "timeYear": 273,
+    "time": 274,
+    "timeDay": 382,
+    "timeWeek": 415,
+    "timeMonth": 383,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 9
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://www.thelearning.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.thelearning.ai.ico",
     "slug": "adaptive-educational-intelligence-aei-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 420,
-    "timeWeek": 435,
-    "timeMonth": 384,
-    "timeYear": 326,
+    "time": 325,
+    "timeDay": 367,
+    "timeWeek": 423,
+    "timeMonth": 382,
+    "timeYear": 325,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 9
     }
   },
   {
