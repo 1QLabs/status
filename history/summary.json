@@ -4,9 +4,9 @@
     "url": "https://www.1qlabs.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.1qlabs.ai.ico",
     "slug": "1-q-labs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 403,
     "timeMonth": 386,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "Talking Brands Website",
     "url": "https://www.talkingbrands.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.talkingbrands.ai.ico",
     "slug": "talking-brands-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 413,
     "timeMonth": 382,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "Talking Brands App",
@@ -58,9 +62,9 @@
     "url": "https://www.thelearning.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.thelearning.ai.ico",
     "slug": "adaptive-educational-intelligence-aei-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 435,
     "timeMonth": 384,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "Adaptive Educational Intelligence (AEI) App",
