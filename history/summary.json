@@ -6,18 +6,16 @@
     "slug": "1-q-labs-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 327,
-    "timeWeek": 397,
-    "timeMonth": 385,
+    "timeDay": 301,
+    "timeWeek": 357,
+    "timeMonth": 384,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2024-10-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Talking Brands Website",
@@ -26,18 +24,16 @@
     "slug": "talking-brands-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 382,
-    "timeWeek": 415,
-    "timeMonth": 383,
-    "timeYear": 274,
-    "dailyMinutesDown": {
-      "2024-10-28": 9
-    }
+    "time": 275,
+    "timeDay": 423,
+    "timeWeek": 384,
+    "timeMonth": 386,
+    "timeYear": 275,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Talking Brands App",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 151,
-    "timeWeek": 136,
-    "timeMonth": 150,
+    "timeDay": 130,
+    "timeWeek": 129,
+    "timeMonth": 149,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -64,18 +60,16 @@
     "slug": "adaptive-educational-intelligence-aei-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 367,
-    "timeWeek": 423,
-    "timeMonth": 382,
+    "timeDay": 312,
+    "timeWeek": 387,
+    "timeMonth": 381,
     "timeYear": 325,
-    "dailyMinutesDown": {
-      "2024-10-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Adaptive Educational Intelligence (AEI) App",
@@ -89,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 154,
-    "timeWeek": 197,
-    "timeMonth": 207,
+    "timeDay": 297,
+    "timeWeek": 198,
+    "timeMonth": 208,
     "timeYear": 229,
     "dailyMinutesDown": {}
   }
